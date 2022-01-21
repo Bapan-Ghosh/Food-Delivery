@@ -50,7 +50,7 @@
     background: url('https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat center center /cover;
     position: absolute;
     height: 115%;
-    width: 111%;
+    width: 100%;
     z-index: -1;
     opacity: .86;
 }
